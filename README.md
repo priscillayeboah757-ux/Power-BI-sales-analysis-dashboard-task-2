@@ -30,5 +30,8 @@ This project analyzes sales data using Power BI and presents key business insigh
 * Manager Performance Analysis
 
 ## Key Insights
-* 
-
+Lisbon generated the highest sales revenue.
+Burgers were the best-selling product.
+Online purchases contributed the largest share of sales.
+Credit Card was the most frequently used payment method.
+Revenue was concentrated among a few top-performing managers.
